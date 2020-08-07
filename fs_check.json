@@ -1,0 +1,6 @@
+{
+    "server": "cdh_run6d_kdcldap",
+    "aws_region": "EU (Ireland)",
+    "part_name": "/dev/xvda1",
+    "threshold": 80
+}
